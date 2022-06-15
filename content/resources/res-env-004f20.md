@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/res-env-004-mit-climate-portal-fall-2020/60e732c6b533e4790afd9b3d33d7c40b_RES-ENV-004f20.jpg
+file: /courses/res-env-004-mit-climate-portal-fall-2020/60e732c6b533e4790afd9b3d33d7c40b_RES-ENV-004f20.jpg
 file_type: image/jpeg
 image_metadata:
   caption: Forests are a stabilizing force for the Earth's climate, and remain an
