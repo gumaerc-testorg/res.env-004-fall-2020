@@ -10,6 +10,7 @@ image_metadata:
   credit: ''
   image-alt: A photograph taken looking up at very tall trees in a forest.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 resourcetype: Image
 title: RES-ENV-004f20-th.jpg
