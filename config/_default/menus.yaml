@@ -1,5 +1,9 @@
 leftnav:
-- identifier: external-12b8914b4fe04723a4defc4b36995afe
+- identifier: external-21e1223bacad4ee1a5e579c1d30639a2
   name: MIT Climate Portal Website
   url: https://climate.mit.edu/
-  weight: 1000
+  weight: 10
+- identifier: external-1127822291-1652285306908
+  name: MIT Climate Podcast
+  url: https://climate.mit.edu/users/tilclimate-podcast
+  weight: 20
