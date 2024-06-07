@@ -1,0 +1,11 @@
+---
+backup_url: ''
+content_type: external-resource
+external_url: https://climate.mit.edu/
+has_external_licence_warning: true
+has_external_license_warning: true
+is_broken: ''
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
+title: MIT Climate Portal Website
+uid: 4fd28129-7cb3-4576-a4ba-006a40438c7e
+---
