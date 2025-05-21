@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/res-env-004-mit-climate-portal-fall-2020/43da18ca11a7e5a620c4a5b0be526dee_RES-ENV-004f20-th.jpg
+file: /courses/res-env-004-mit-climate-portal-fall-2020/43da18ca11a7e5a620c4a5b0be526dee_RES-ENV-004f20-th.jpg
 file_size: 42223
 file_type: image/jpeg
 image_metadata:
