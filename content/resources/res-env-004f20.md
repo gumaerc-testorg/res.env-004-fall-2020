@@ -6,8 +6,8 @@ file_size: 218021
 file_type: image/jpeg
 image_metadata:
   caption: Forests are a stabilizing force for the Earth's climate, and remain an
-    essential solution to fight climate change. (Image by {{% resource_link "2301905b-2217-46f4-9179-6522dd2b0c06"
-    "Casey Horner" %}} on Unsplash.)
+    essential solution to fight climate change. (Image by [Casey Horner](https://unsplash.com/photos/4rDCa5hBlCs)
+    on Unsplash.)
   credit: Image by Casey Horner on Unsplash.
   image-alt: A photograph taken looking up at very tall trees in a forest.
 learning_resource_types: []
